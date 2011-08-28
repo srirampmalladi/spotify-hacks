@@ -1,4 +1,8 @@
 /Debug/
 /ipch/
+*.sdf
+*.opensdf
+*.suo
+*.vcxproj.user
 /tmp/
 include/appkey.h
